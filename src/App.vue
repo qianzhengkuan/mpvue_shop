@@ -15,7 +15,7 @@ export default {
 @import "../static/styles/iconfont.less";
 page {
   background-color: #f4f4f4;
-  font-size: 24rpx;
+  font-size: 30rpx;
   color: #333;
 }
 </style>
